@@ -1,3 +1,3 @@
-##Stars
+Stars
 
 More practice with React
